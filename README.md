@@ -1,0 +1,2 @@
+# nextjsSaaSFirebaseTemplate
+Let's Go.
