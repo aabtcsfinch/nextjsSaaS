@@ -5,3 +5,11 @@
 * {
   font-family: 'Jost', sans-serif;
 }
+.pricing-plan {
+  &:hover {
+    .pricing-amount {
+      background-color: #4c51bf;
+      color: #fff;
+    }
+  }
+}
